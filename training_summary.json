@@ -1,0 +1,10 @@
+{
+  "sft_eval_loss": 0.506,
+  "dpo_eval_loss": 0.34149155020713806,
+  "dpo_perplexity": 1.4070447040195306,
+  "dataset_size": 1898,
+  "model": "mistralai/Mistral-7B-v0.1",
+  "precision": "fp16",
+  "quantization": "none",
+  "completed_at": "2026-03-13T12:55:33.616421"
+}

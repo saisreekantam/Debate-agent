@@ -1,0 +1,4 @@
+Stage,Eval Loss,Perplexity
+SFT Only,0.506,1.66
+"DPO v1 (beta=0.1, dirty data)",0.3415,1.41
+"DPO v2 (beta=0.3, clean data)",0.05383414030075073,1.06

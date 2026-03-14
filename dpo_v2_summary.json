@@ -1,0 +1,11 @@
+{
+  "sft_eval_loss": 0.506,
+  "dpo_v1_eval_loss": 0.3415,
+  "dpo_v2_eval_loss": 0.05383414030075073,
+  "dpo_v2_reward_accuracy": 1.0,
+  "dpo_v2_reward_margin": 3.1137166023254395,
+  "clean_dataset_size": 1848,
+  "samples_removed": 50,
+  "beta": 0.3,
+  "completed_at": "2026-03-13T13:16:06.578801"
+}
